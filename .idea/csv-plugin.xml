@@ -17,14 +17,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Lesson_9/HW/pima-indians-diabetes.csv">
+        <entry key="/Lesson_9/HW/diabetes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/Lesson_9/loans.csv">
+        <entry key="/Lesson_9/HW/pima-indians-diabetes.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

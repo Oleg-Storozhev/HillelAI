@@ -24,13 +24,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Lesson_9/HW/pima-indians-diabetes.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
       </map>
     </option>
   </component>
